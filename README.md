@@ -125,7 +125,7 @@ Create a `.env` file in the project's root folder and populate it with the appro
 
 ```env
 # The Base URL of the Mr. Biology Backend APIs
-VITE_BASE_API=https://apis.mr-biology.com
+VITE_BASE_API=https://apis-example.com
 ```
 
 > [!WARNING]
