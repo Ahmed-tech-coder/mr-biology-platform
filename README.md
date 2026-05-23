@@ -106,7 +106,7 @@ Follow these steps to set up the project locally.
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/devway1/mr-biology-platform.git
-    cd Mr-Biology
+    cd mr-biology-platform
     ```
 
 2.  **Install Dependencies:**
