@@ -29,7 +29,6 @@ A comprehensive, enterprise-level digital academy for teaching biology, providin
 
 ## 3. Demo / Preview
 🚀 **Live Production Link:** [https://mr-biology.com](https://mr-biology.com)  
-🧪 **Staging / Test Link:** [https://mr-biology-staging.vercel.app](https://mr-biology-staging.vercel.app) *(Placeholder)*
 
 > [!NOTE]
 > The platform is fully localized in **Arabic (RTL)** to fit the target Egyptian curriculum, using the premium **Cairo** typography and beautiful glassmorphism gradients optimized for dark-mode.
@@ -285,7 +284,6 @@ Distributed under the **MIT License**. See `LICENSE` for more details.
 ## 17. Contact Information
 
 *   **Instructor:** Mr. Ahmed Ayad (الأستاذ أحمد عياد)
-*   **Platform Coordinator:** [support@mr-biology.com](mailto:support@mr-biology.com)
 *   **Technical Dev Team:** DevWay Team
 *   **Social Channels:** [Facebook Community Page](https://www.facebook.com/share/1ADZVJYWS5/?mibextid=wwXIfr)
 
