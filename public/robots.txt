@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login/
+Disallow: /student-page/profile
+Allow: /
+
+Sitemap: https://mr-biology.com/sitemap.xml
